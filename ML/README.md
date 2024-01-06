@@ -1,4 +1,4 @@
-GROUP B Based on Machine Learning (410242)
+#GROUP B Based on Machine Learning (410242)
 
 Assignment 1 - Implement linear regression and random forest regression models<br>
 Assignment 2 - Implement K-Nearest Neighbors and Support Vector Machine for classification<br>
